@@ -1,2 +1,1 @@
-# CPP-module
-21 school CPP course
+42CPP course 
